@@ -84,6 +84,8 @@ Company Size- the creator does not specify nor does ai-jobs.net about how many p
 What are the regulations to using the data? 
 This is public information found from job listings on a public website, therefore this is all public data. 
 If you are referencing sources, be sure to include citations/references as needed.
+
+
 Works Cited:
 Jobs and talents in AI, ML, data science and Big Data. ai-jobs. (n.d.). https://ai-jobs.net/?key=&exp=EN   
 Islam, S. (2024, January 20). Data Science salaries 2024. Kaggle. https://www.kaggle.com/datasets/sazidthe1/data-science-salaries/data 

@@ -1,6 +1,26 @@
 # Assignment-3
 
 
+Instructor: Melissa Laurino
+Spring 2024
+
+Name: Jamie Nevin
+Date: 02/08/24
+
+We introduced in Assignment #2 the imporatance of data cleaning and why accurrate data is needed when making informed decisions in our field. In our assignment, we were faced with making the decision whether or not to omit data we may not know too much about yet.
+Metadata is data about the data. Metadata can be structural, administrative, statistical and much more.
+When building your data warehouses it is important to have data cleaning protocols established for your organization BEFORE you start to clean the data.
+
+Your task for Assignment #3 is to:
+--Create a Github repository for this class. It can be public or private. If you choose to make it private, add the instructor as a collaborator. @MelissaLaurino
+--Staying Connected -> Visit the Discussion Board and share your username with classmates if you are interested.
+--Upload Assignment #1, #2, and your clean data (If you created a physical clean copy of it, otherwise the link is fine) to your new/established Github repository. For every repository you create, you'll automatically have the option to include a README.md (Meta data) file.
+--Create a descriptive and very detailed README.md file for your dataset you have chosen to continue with. Insert a link to your Github README.md repository file in the comments section on Blackboard, or attach this assignment for submission.
+
+Include all of the following information on your README.md file for full credit. Be specific!:
+More research may be needed on your dataset, besides general exploration, to answer the different types of metadata questions. If you are exploring your data at a greater depth to answer these questions, you can explore on this new document or continue working in Assignment #2.
+(Refer to the Powerpoint notes on Blackboard for examples and guidance.)
+
 Where is the data from? ​
 This dataset is from Keggle.com. A free website that has a bunch of free datasets to access. 
 

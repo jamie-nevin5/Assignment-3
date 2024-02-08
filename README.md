@@ -22,6 +22,8 @@ Include all of the following information on your README.md file for full credit.
 More research may be needed on your dataset, besides general exploration, to answer the different types of metadata questions. If you are exploring your data at a greater depth to answer these questions, you can explore on this new document or continue working in Assignment #2.
 (Refer to the Powerpoint notes on Blackboard for examples and guidance.)
 
+Data Science Salaries Data:
+
 Where is the data from? ​
 This dataset is from Keggle.com. A free website that has a bunch of free datasets to access. 
 

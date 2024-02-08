@@ -75,6 +75,7 @@ company_location- what country the company is located
 Company_size- how big the company is in terms of size 
 
 If there are set variable options in your dataset, what are thier definitions? ​
+
 Experience level
    
     Entry-level- just starting out in the job and practically no experience
@@ -118,6 +119,5 @@ If you are referencing sources, be sure to include citations/references as neede
 Works Cited:
 
 Jobs and talents in AI, ML, data science and Big Data. ai-jobs. (n.d.). https://ai-jobs.net/?key=&exp=EN   
-
 Islam, S. (2024, January 20). Data Science salaries 2024. Kaggle. https://www.kaggle.com/datasets/sazidthe1/data-science-salaries/data 
 Indeed Editorial Team. (n.d.). Business sizes: Classifications and characteristics | indeed.com. Indeed. https://www.indeed.com/career-advice/career-development/business-sizes 

@@ -5,6 +5,7 @@ Instructor: Melissa Laurino
 Spring 2024
 
 Name: Jamie Nevin
+
 Date: 02/08/24
 
 We introduced in Assignment #2 the imporatance of data cleaning and why accurrate data is needed when making informed decisions in our field. In our assignment, we were faced with making the decision whether or not to omit data we may not know too much about yet.

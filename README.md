@@ -47,9 +47,10 @@ What were the formulas used in column creation?​
 The data provider does not give details on the formulas used to create the column however according to the columns provided, it looks like he used data/time operation, 
 
 How is the data validated to ensure consistency?​
-The data was cleaned throughly, as visalize by creating a couple graphs to visualize the data. 
+The data was cleaned throughly, and visalized by creating a couple graphs with the data. 
 
 What are the definitions for the column names? Include all columns in your dataset.​
+
 job_title- the name of the job that is in data science
 experience_level- how experienced the job is 
 employment_type- how many hours the job is (full-time/part-time)

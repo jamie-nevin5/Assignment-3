@@ -44,7 +44,7 @@ salary_in_usd- U.S. money
 work_year- year
 
 What were the formulas used in column creation?​
-The data provider does not give details on the formulas used to create the column however according to the columns provided, it looks like he used data/time operation, 
+The data provider does not give details on the formulas used to create the column however according to the columns provided, it looks like he used data/time operation and arthemetics formulas. 
 
 How is the data validated to ensure consistency?​
 The data was cleaned throughly, and visalized by creating a couple graphs with the data. 

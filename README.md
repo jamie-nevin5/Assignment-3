@@ -8,48 +8,34 @@ Name: Jamie Nevin
 
 Date: 02/08/24
 
-We introduced in Assignment #2 the imporatance of data cleaning and why accurrate data is needed when making informed decisions in our field. In our assignment, we were faced with making the decision whether or not to omit data we may not know too much about yet.
-Metadata is data about the data. Metadata can be structural, administrative, statistical and much more.
-When building your data warehouses it is important to have data cleaning protocols established for your organization BEFORE you start to clean the data.
-
-Your task for Assignment #3 is to:
---Create a Github repository for this class. It can be public or private. If you choose to make it private, add the instructor as a collaborator. @MelissaLaurino
---Staying Connected -> Visit the Discussion Board and share your username with classmates if you are interested.
---Upload Assignment #1, #2, and your clean data (If you created a physical clean copy of it, otherwise the link is fine) to your new/established Github repository. For every repository you create, you'll automatically have the option to include a README.md (Meta data) file.
---Create a descriptive and very detailed README.md file for your dataset you have chosen to continue with. Insert a link to your Github README.md repository file in the comments section on Blackboard, or attach this assignment for submission.
-
-Include all of the following information on your README.md file for full credit. Be specific!:
-More research may be needed on your dataset, besides general exploration, to answer the different types of metadata questions. If you are exploring your data at a greater depth to answer these questions, you can explore on this new document or continue working in Assignment #2.
-(Refer to the Powerpoint notes on Blackboard for examples and guidance.)
-
 Data Science Salaries Data:
 
-Where is the data from? ​
+
 This dataset is from Keggle.com. A free website that has a bunch of free datasets to access. 
 
-How was it collected?​
+
 This data was collected by looking at the salaries of data scientists over the last 5 years (2020-2024). 
 
-How was it extracted?​
+
 The data set was extracted from ai-jobs.net. 
 
-What program was used to clean the data?​
+
 R was used to clean the data set. 
 
-How was the data cleaned or transformed? Be specific.​
+
 The data was cleaned by removing duplicates, making sure all the data columns are the right class, made sure all the column were lowercase, checked for outlers, removed any duplicates, made sure data that should be consistent was consistent, and arranged the salary category by descending order. 
 What are the units of the numeric data?​
 salary- money
 salary_in_usd- U.S. money
 work_year- year
 
-What were the formulas used in column creation?​
+
 The data provider does not give details on the formulas used to create the column however according to the columns provided, it looks like he used data/time operation and arthemetics formulas. 
 
-How is the data validated to ensure consistency?​
+
 The data was cleaned throughly, and visalized by creating a couple graphs with the data. 
 
-What are the definitions for the column names? Include all columns in your dataset.​
+Definitions of the column names
 
 
 job_title- the name of the job that is in data science
@@ -74,7 +60,7 @@ company_location- what country the company is located
 
 Company_size- how big the company is in terms of size 
 
-If there are set variable options in your dataset, what are thier definitions? ​
+Different variable options​
 
 Experience level
    
@@ -110,7 +96,7 @@ Company Size- the creator does not specify nor does ai-jobs.net about how many p
     Large- their size and ability to dominate a particular market means that they produce the majority of total revenue when taking
     into account all business sizes in the U.S.
     
-What are the regulations to using the data? 
+
 
 This is public information found from job listings on a public website, therefore this is all public data. 
 If you are referencing sources, be sure to include citations/references as needed.

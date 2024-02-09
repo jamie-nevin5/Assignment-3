@@ -8,6 +8,8 @@ Name: Jamie Nevin
 
 Date: 02/08/24
 
+Summary: This data is about data science jobs from the years of 2020-2024. It goes over the the different types of the job in the field and the salaries they had. 
+
 Data Science Salaries Data:
 
 
